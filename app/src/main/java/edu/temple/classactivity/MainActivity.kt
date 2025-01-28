@@ -22,10 +22,12 @@ class MainActivity : AppCompatActivity() {
             clickMeButton.text = "Button clicked"
         }
 
+        //
         //val ocl = object: OnClickListener {
         //    override fun onClick(p0: View?) {
         //        (p0 as Button).text = "Button clicked"
         //    }
         //}
+        //
     }
 }
